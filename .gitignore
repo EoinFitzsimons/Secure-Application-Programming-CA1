@@ -1,0 +1,29 @@
+# Maven / Java
+target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Mac / Windows OS
+.DS_Store
+Thumbs.db
+
+# Logs
+.log
+
+# Editor temp files
+*~
+*.swp
+*.swo
+
+# Build wrappers
+.mvn/wrapper/maven-wrapper.jar
